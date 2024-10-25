@@ -9,5 +9,5 @@ echo Menghapus semua file dari folder TEMP...
 del /q/f/s %TEMP%\*
 del /q/f/s C:\Windows\Temp\*
 
-echo Sudah Selesai Tuan Pedro!
+echo Selesai!
 pause
